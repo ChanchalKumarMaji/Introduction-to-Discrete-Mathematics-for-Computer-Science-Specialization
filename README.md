@@ -11,4 +11,19 @@
 **Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
 
 
-<kbd><img src="" /></kbd>
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Mathematical%20Thinking%20in%20Computer%20Science/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Combinatorics%20and%20Probability/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Introduction%20to%20Graph%20Theory/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Number%20Theory%20and%20Cryptography/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/Introduction-to-Discrete-Mathematics-for-Computer-Science/blob/master/Delivery%20Problem/Certificate/Certificate.jpg" /></kbd>
