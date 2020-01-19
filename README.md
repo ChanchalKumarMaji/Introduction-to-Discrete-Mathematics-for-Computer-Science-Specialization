@@ -6,3 +6,9 @@
 + **[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics)**
 + **[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics)**
 + **[Delivery Problem](https://www.coursera.org/learn/delivery-problem)**
+
+
+**Instructors** : `Alexander S. Kulikov`, `Michael Levin` and `Vladimir Podolskii`
+
+
+<kbd><img src="" /></kbd>
